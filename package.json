@@ -41,6 +41,7 @@
     "@radix-ui/react-tooltip": "^1.0.7",
     "@tabler/icons-react": "^3.4.0",
     "@uploadthing/react": "^6.5.4",
+    "autoprefixer": "^10.4.19",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
